@@ -1,3 +1,5 @@
+ANGULAR CYPRESS CODE COVERAGE
+
 This example can be found on github [ang-cy-cov-example](https://github.com/GettinDatFoShow/ang-cy-cov-example)
 
 As a front end developer it's very easy to get caught up in the fine tuning of that perfect web application. If you have multiple people working together, it can be annoying when someone else's changes tend to skew the looks or functionality of your component. There haven't really been any great testing frameworks that test applications visually the way a user does. Not until now at least...

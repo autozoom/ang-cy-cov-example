@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ang-cy-cov-example';
+
+  ciao() {
+    const a = 99;
+  }
 }
